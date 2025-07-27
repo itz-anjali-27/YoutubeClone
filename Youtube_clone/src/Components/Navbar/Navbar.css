@@ -1,0 +1,54 @@
+nav{
+    padding: 10px 2%;
+    justify-content: space-between;
+    box-shadow: 0 0 10px rgb(0,0,0,0.2);
+    background: #fff;
+    position: sticky;
+    top:0;
+    z-index:10;
+}
+.nav-left .menu{
+    width:40px;
+}
+
+.nav-left .logo{
+    width:50px;
+    margin: 10px;
+}
+.nav-middle  img{
+    width: 20px;
+    margin-left:130px;
+}
+.nav-right .more_icon{
+    width:25px;
+   margin:10px;
+   
+}
+.nav-right .noti_icon{
+    width:21px;
+    margin: 10;
+   
+}
+.nav-right .user_icon{
+    width:30px;
+    margin: 10px;
+   
+}
+
+.nav-right .upload_icon{
+    width:35px;
+    margin: 10;
+}
+.nav-middle {
+    width:600px;
+    border-radius:25px;
+   border: 1px solid #ccc ;
+   padding: 8px 12px;
+}
+.nav-middle input {
+    width:400px; 
+   border: 0;
+   outline:0;
+   background: transparent;
+   font-size: 15px;
+}
